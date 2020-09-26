@@ -25,9 +25,5 @@ KING CLAUDIUS
 Take thy fair hour, Laertes; time be thine,
 And thy best graces spend it at thy will!
 But now, my cousin Hamlet, and my son,—
-668
-<<<<<<< HEAD
-haha
-=======
->>>>>>> b7191f1a3a91c967c18c345ff791343f64eb4a35
+
 
