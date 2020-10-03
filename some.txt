@@ -1,4 +1,4 @@
-LAERTES
+﻿LAERTES
 
 My dread lord,
 Your leave and favour to return to France;
@@ -29,4 +29,5 @@ But now, my cousin Hamlet, and my son,—
 CONTENT, CONFLICTS 
 
 FFFFFFFFFFFFOOOOOOOOOOOOOOOOOOOO
+end 2
 
