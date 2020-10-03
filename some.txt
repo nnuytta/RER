@@ -24,17 +24,7 @@ KING CLAUDIUS
 
 Take thy fair hour, Laertes; time be thine,
 And thy best graces spend it at thy will!
-But now, my cousin Hamlet, and my son,—
-<<<<<<< HEAD
-jjjjjjjjjjj
-
-=======
-то, что надо удалить
->>>>>>> 56f7aba357cbc235ddb37ad0616ddf447ccae4e0
-ТЕКСТ ДЛЯ ВЕТКИ8
-ЕЩЕ ТЕКСТ ДЛЯ ВЕТКИ8
-КОНТЕНТ2
-конец пуш
+But now, my cousin Hamlet, and my son,вЂ”
 
 CONTENT, CONFLICTS 
 
